@@ -1,23 +1,27 @@
-# Title of your OER Project
+# OER for Reuse of Discarded Electronic Materials
+**(DIY Power Bank, variable voltage regulator, Eco-friendly lamp, Led light)**
 
-Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
+## Description
+Reusing Electronics Materials is crutial in the context of a Refugee Settlement and helps understanding electronic components.
+Reuse refers to the act of finding new uses for items or materials that would otherwise go to waste, various DIY projects can showcase the concept of reuse, encouraging learners to think creatively and resourcefully. Here are some Projects from E- waste: -
 
-## Description of your OER
-Please use different **hierarchy levels of headlines** to structure your document!
+
 
 ## Learning Objective 
-Some random text.
+### DIY power bank.
+By repurposing old lamps  batteries or salvaging usable components from discarded electronics, learners can create a portable power source for charging their devices. This project not only reduces waste but also promotes self-sufficiency and innovation.
 
-## Tools & Materials
-- item one
-- item two
-- item three 
+### Variable DC voltage regulator
+Instead of purchasing expensive regulators, learners can repurpose components from old electrical devices to build one themselves. This not only saves money but also reduces the demand for new electronics, contributing to a more sustainable environment.
 
-## Step-by-Step Guide / Instructions 
-### Step one
-Some random text.
-### Step two
-Some random text.
+[**Instruction Guide for building the regulator**](DC-Voltage-Regulator.md)
+
+
+### Eco-friendly lighting/Led light 
+By repurposing glass bottles, jars, or other containers, learners can create unique and aesthetically pleasing lighting fixtures. Moreover, using energy-efficient LED bulbs can further enhance the sustainability aspect, reducing energy consumption and promoting eco-conscious habits.
+
+
+
 
 ## #ASKnet Logo 
 
