@@ -13,6 +13,6 @@ An adjustable voltage regulator produces a DC output voltage, which can be adjus
 * LM317T Transistor
 * bread board
 
-![image](https://user-images.githubusercontent.com/56769901/255319766-8b0e9ce0-b413-4009-aa21-58547157fc47.png)
+![DC-Voltage-Regulator-Schematics](images/DC-Voltage-Regulator-1.png)
 
 
