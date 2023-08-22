@@ -14,7 +14,7 @@ By repurposing old lamps  batteries or salvaging usable components from discarde
 ### Variable DC voltage regulator
 Instead of purchasing expensive regulators, learners can repurpose components from old electrical devices to build one themselves. This not only saves money but also reduces the demand for new electronics, contributing to a more sustainable environment.
 
-[**Instruction Guide for building the regulator**](DC-Voltage-Regulator.md)
+[**Instruction Guide for building the regulator**](Guide-DC-Voltage-Regulator.md)
 
 
 ### Eco-friendly lighting/Led light 
