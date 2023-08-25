@@ -24,6 +24,7 @@ By repurposing glass bottles, jars, or other containers, learners can create uni
 
 [**Instructions Guide for building Led-Light**](LED-LIGHT.md)
 
+[**Instructions Guide for Eco-Friendly Lamp**](Eco-FriendlyLamp.md)
 
 
 
