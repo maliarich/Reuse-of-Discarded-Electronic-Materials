@@ -27,5 +27,6 @@ An adjustable voltage regulator produces a DC output voltage, which can be adjus
 -  Connect a negative output to the middle terminal of the potentiometer. 
 - Test the product
 
-  
+  ![VR - Testing](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/b82534fb-6164-4011-ab99-b1a9bb00003a)
+
 
