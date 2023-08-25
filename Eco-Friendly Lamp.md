@@ -49,4 +49,4 @@ Step 10: _Cut a piece of cardboard to cover the top of the transparent container
 
 Step 11: Place the cardboard cover on top of the container, making sure it fits snugly.
 
-![Eco- Freindly Lamp](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/1a5bc0b6-1ce2-4fb6-80ba-000ec39676f6)
+![Eco- Freindly Lamp](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/1a5bc0b6-1ce2-4fb6-80ba-000ec39676f6) 
