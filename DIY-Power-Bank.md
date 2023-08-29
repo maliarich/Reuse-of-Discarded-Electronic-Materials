@@ -1,4 +1,4 @@
-### DIY Power Bank
+# DIY Power Bank
 
 At the heart of this power bank circuit, are small 3.7V lithium- ion cells that are salvaged out of old broken lamps about 2600mah each.
 _Materials_ 
@@ -8,7 +8,7 @@ _Materials_
 Power banks: are used to charge cell phones, tablets, speakers, and even laptops 
 ![Schematics of the DIY power Bank](https://user-images.githubusercontent.com/56769901/255320524-cab0ae34-7963-480c-bb7c-038128c207e2.png)
 
-## Assembling procedure.
+# Assembling procedure.
 
 - look for a discarded electronic board
 - Remove required electronic materials
