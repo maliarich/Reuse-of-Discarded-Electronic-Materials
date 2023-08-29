@@ -1,4 +1,4 @@
- ### Unit 2 Eco-friendly Lamps
+ # Unit 2 Eco-friendly Lamps
  A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.
 
 _Requirement_
@@ -16,7 +16,7 @@ _Requirement_
 The most sustainable lamp materials are recycled and/or recyclable—such as scrap cardboard, glass waste, plastic bottles, and salvaged wood. When new natural materials are used (such as bamboo, wood, and shells) they should be responsibly sourced ![image](https://user-images.githubusercontent.com/56769901/255320138-22299086-4c6b-4e7a-8070-f29c163ab9a2.png)
 
 
-#### Steps in the making:-
+# Steps in the making:-
 Step 1: _Gather all the materials_ you will need for making the lamp, including batteries, a switch, a transparent container, cardboard for covering the container at the top, a battery case, wires, a bright LED, and a lamp holder.
 
 Step 2: _Start by preparing the transparent container_ You can use an old glass jar or a plastic container with a lid. Make sure it is clean and free from any debris.
