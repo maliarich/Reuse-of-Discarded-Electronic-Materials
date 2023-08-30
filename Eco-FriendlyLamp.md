@@ -24,7 +24,7 @@ _Gather all the materials_ you will need for making the lamp, including batterie
 _Start by preparing the transparent container_ You can use an old glass jar or a plastic container with a lid. Make sure it is clean and free from any debris.
 
 ![Glass](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/49e185bd-d956-4ac4-b889-1d4a00b343b4)
-> Where do you save your images? the link for images of your folder would be looking like the above one
+> Please use the following way to embed your images
 ```
 ![Glass](/images/Glass.jpg)
 ```
