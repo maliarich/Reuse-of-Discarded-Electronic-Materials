@@ -11,7 +11,7 @@
  * Wire cutters/strippers
  * Small drill or a hot nail
  
- ![Materials for Led](/imagesLed-materials.jpg/)
+ ![Materials for Led](/images/Led-materials.jpg/)
 
 ![Schematic for the Led mesmorizing light](/images/RBG-light.jpg)
 
