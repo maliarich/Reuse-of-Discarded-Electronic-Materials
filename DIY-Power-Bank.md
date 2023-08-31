@@ -1,34 +1,35 @@
 # DIY Power Bank
 
 At the heart of this power bank circuit, are small 3.7V lithium- ion cells that are salvaged out of old broken lamps about 2600mah each.
+
 _Materials_ 
 
-![Materials used in the DIY power bank ](https://user-images.githubusercontent.com/56769901/255320364-5336a3dd-1b60-4d66-9d67-768f414d18c2.png) 
+![Materials used in the DIY power bank ](/images/Charger-materials.jpg) 
 
 Power banks: are used to charge cell phones, tablets, speakers, and even laptops 
-![Schematics of the DIY power Bank](https://user-images.githubusercontent.com/56769901/255320524-cab0ae34-7963-480c-bb7c-038128c207e2.png)
+![Schematics of the DIY power Bank](/images/Schematics-Charger.jpg)
 
 # Assembling procedure.
 
 - look for a discarded electronic board
 - Remove required electronic materials
 
-  ![materials removal](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/32aac69a-9c4e-4978-b5ff-4bc35c682860)
+  ![materials removal](/images/materials-removal.jpg)
 
 - level all electronic components
 - Cut a rectangular flywood with dimensions (4cm/ 10cm) x2
 
-  ![Top cover cardboard](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/c7063770-d14b-4a48-b0f0-f53bde47e593)
+  ![Top cover cardboard](/images/Top-cover-cardboard.jpg)
 
 - Cut a side cover plastics/wood  to cover the edges of the power bank
 
-  ![Side cover- fliy wood](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/7d7600d6-b555-43e0-8e6a-384526cf6d8c)
+  ![Side cover- fliy wood](/images/Side-cover-fly-wood.jpg)
 
 - Put all the ports (in/out ) in a circuit board and solder it
 - Solder the red LED into the circuit board 
 - Glue down the 3 batteries on the flywood
 
-  ![Rechargable batteries](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/fe543196-d2e8-4a32-8f60-f601832b89da)
+  ![Rechargable batteries](/images/Rechargable-batteries.jpg)
 
 > - Solder the voltage regulator into the circuit board:
 
@@ -40,7 +41,7 @@ Power banks: are used to charge cell phones, tablets, speakers, and even laptops
 
 4 -  again from the voltage regulator, solder a positive out put to a USB port
 
-![soldered circuit](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/14e8da86-f217-4c03-9b1a-5f3ebd941d28)
+![soldered circuit](images/soldered-circuit.jpg)
 
 5 -  from the charging port ( jack), solder a 10k resistor to the left terminal of the voltage regulator as positive.
 
@@ -52,15 +53,15 @@ Power banks: are used to charge cell phones, tablets, speakers, and even laptops
 
 9 – attach the circuit board to the wood
 
-![Circuit board attarched next to a battery](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/2b6fd598-889c-42e5-ba5f-520acf4a30a0)
+![Circuit board attarched next to a battery](/images/Circuit-board-attarched-battery.jpg)
 
 10 – attach all side cover to the wood 
 
-![side cover attached to main wood](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/ad0a4715-25e9-4d08-a630-8a6de6e51350)
+![side cover attached to main wood](/images/side-cover-attached-main.jpg)
 
 11 – Cover the top with a wood same size as the below
 
 12 – test the product 
 
-![Testing Power Bank](https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/assets/56769901/caa4ecfe-a2f5-4de1-9d37-b92bf239c678)
+![Testing Power Bank](/images/Testing-Power-Bank.jpg)
 
