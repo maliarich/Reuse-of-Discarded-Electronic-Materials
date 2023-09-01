@@ -40,4 +40,4 @@ Links (e.g. to videos), references, etc.
 
 This Trainer documentation was created in the context of https://asknet.community
 
-![ASKnet Logo](/images/asknet-logo.png)
+![ASKnet Logo](/images/asknet-logo-.png)
