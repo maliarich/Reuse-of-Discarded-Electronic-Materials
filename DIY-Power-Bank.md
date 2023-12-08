@@ -64,7 +64,7 @@ Solder the voltage regulator into the circuit board:
 <img width="600" src="images/side-cover-attached-main.jpg" alt="Side covers glued onto the plywood cover"/><br><em>Side covers glued onto the plywood cover</em></p>
 
 - Put your base plate with the circuit and the cover with the side elements together. 
-- Test your **DIY Power Bank**: 
+- Test your **DIY Power Bank**.
 
 <p align="center" width="100%">
 <img width="600" src="images/Testing-Power-Bank.jpg" alt="Testing the DIY Power Bank"/><br><em>Testing the DIY Power Bank</em></p>
