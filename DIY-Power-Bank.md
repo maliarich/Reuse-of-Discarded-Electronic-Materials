@@ -5,12 +5,12 @@ At the heart of this power bank circuit, are small 3.7V lithium- ion cells that 
 _Materials_ 
 
 <p align="center" width="100%">
-<img width="600" src="images/Charger-materials.jpg" alt="Materials used"/><br><em>Materials used</em></p>
+<img width="750" src="images/Charger-materials.jpg" alt="Materials used"/><br><em>Materials used</em></p>
 
 Power banks can be used to charge cell phones, tablets, speakers, laptops, etc..
 
 <p align="center" width="100%">
-<img width="600" src="images/Schematics-Charger.jpg" alt="Schematics of the DIY power Bank"/><br><em>Schematics of the DIY power Bank</em></p>
+<img width="750" src="images/Schematics-Charger.jpg" alt="Schematics of the DIY power Bank"/><br><em>Schematics of the DIY power Bank</em></p>
 
 ## Assembling procedure
 
