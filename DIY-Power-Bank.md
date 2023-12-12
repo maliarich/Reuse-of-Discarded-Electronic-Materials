@@ -59,7 +59,8 @@ Solder the voltage regulator into the circuit board:
 ## Final Steps
 - Attach the circuit board onto the base plate.
 <p align="center" width="100%">
-<img width="600" src="images/Circuit-board-attarched-battery.jpg" alt="Circuit board attached next to the batteries"/><br><em>Circuit board attached next to the batteries</em></p>
+<img width="600" src="images/Circuit-board-attarched-battery.jpg" alt="Circuit board attached next to the batteries"/><br><em>Circuit board attached next to the batteries</em></p>  
+
 - Glue the side covers on the plywood cover.
 
 <p align="center" width="100%">
