@@ -35,7 +35,7 @@ Cut the USB cable, separating the two wires inside (usually a red wire and a bla
 ### Step 5: _Preparing the box_
 Cut a circular piece of cardboard from plywood or a box, and thread the USB wire through the plastic base.
 
-<p align="center" width="100%"><img width="500" src="images/Cardboard-black-base.jpg" alt="Black plastic base and piece of cardboard"/><br><em>Black plastic base and piece of cardboard</em></p>
+<p align="center" width="100%"><img width="750" src="images/Cardboard-black-base.jpg" alt="Black plastic base and piece of cardboard"/><br><em>Black plastic base and piece of cardboard</em></p>
 
 ### Step 6: _Powering the LED Disco Light_ 
 Connect the USB cable to a power source, such as a computer, laptop, or USB wall charger. The LEDs should illuminate, producing a vibrant disco effect inside the plastic container.
