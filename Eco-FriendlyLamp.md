@@ -1,5 +1,5 @@
 # Eco-Friendly Lamp
-
+Embark on a creative journey as you learn to craft an eco-friendly lamp from a handful of discarded electronic components. Illuminate your space with a sustainable touch, blending functionality with aesthetic appeal. Join us in discovering the art of repurposing for both light and style!
 ## Materials
 
 * LED
