@@ -1,4 +1,5 @@
- # Led light
+ # LED Disco Light
+ This module guides you through the process of creating a vibrant and captivating USB-powered LED Disco Light using recycled electronic materials. Explore the art of crafting a colorful, blinking masterpiece from discarded components.
 
  ## Materials
 - Red LED
@@ -13,7 +14,7 @@
 <p align="center" width="100%"><img width="750" src="images/Led-materials.jpg" alt="Materials used"/><br><em>Materials used</em></p>
 
 ## Schematic
-<p align="center" width="100%"><img width="750" src="images/RBG-light.jpg" alt="Schematic for the LED Mesmerizing Light"/><br><em>Schematic for the LED Mesmerizing Light</em></p>
+<p align="center" width="100%"><img width="750" src="images/RBG-light.jpg" alt="Schematic for the LED Disco Light"/><br><em>Schematic for the LED Disco Light</em></p>
 
 ## Assembling procedure
 
@@ -23,7 +24,7 @@ Begin by identifying the positive (anode) and negative (cathode) terminals of ea
 ### Step 2: _Creating the LED circuit_ 
 Cut two short lengths of wire from the USB cable, making sure each wire is long enough to connect the LEDs to the circuit. Strip a small portion of insulation from each end of the wires to expose the copper strands. Then, solder one wire to the positive terminal of the red LED and the other wire to the positive terminal of the green LED. Ensure the soldered connections are secure, and cover the exposed connections with electrical tape for insulation.
 
-### Step 3: _Assembling the disco lights_ 
+### Step 3: _Preparing and assembling the container_ 
 Take the plastic container and determine the desired locations for the LEDs. Drill or heat a hole using a hot nail on the container's surface, ensuring it is large enough to snugly fit the LEDs. Exercise caution to avoid damaging the container during drilling or heating. Insert the red and green LEDs into the created holes, positioning their positive terminals facing outward. Secure them in place with a small amount of hot glue or adhesive if necessary.
 
 <p align="center" width="100%"><img width="750" src="images/Soldering-anode-cathode.jpg" alt="Soldering the Anode and Cathode Terminals"/><br><em>Soldering the Anode and Cathode Terminals</em></p>
@@ -36,9 +37,9 @@ Cut a circular piece of cardboard from plywood or a box, and thread the USB wire
 
 <p align="center" width="100%"><img width="750" src="images/Cardboard-black-base.jpg" alt="Black plastic base and piece of cardboard"/><br><em>Black plastic base and piece of cardboard</em></p>
 
-### Step 6: _Powering the disco lights_ 
+### Step 6: _Powering the LED Disco Light_ 
 Connect the USB cable to a power source, such as a computer, laptop, or USB wall charger. The LEDs should illuminate, producing a vibrant disco effect inside the plastic container.
 
-<p align="center" width="100%"><img width="750" src="images/led-light.jpg" alt="Fully Assembled Disco Light"/><br><em>Fully Assembled Disco Light</em></p>
+<p align="center" width="100%"><img width="750" src="images/led-light.jpg" alt="Fully Assembled Disco Light"/><br><em>Fully Assembled LED Disco Light</em></p>
 
 > **Warning**: Be cautious when working with electronics and soldering irons. Ensure your workspace is well-ventilated and take proper safety precautions.
