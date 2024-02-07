@@ -1,5 +1,5 @@
 # OER for Reuse of Discarded Electronic Materials
-**(DIY Power Bank, variable voltage regulator, Eco-friendly lamp, Led light)**
+**(DIY Power Bank, variable voltage regulator, eco-friendly Lamp, LED Disco Light)**
 
 ## Description
 Reusing Electronics Materials is crutial in the context of a Refugee Settlement and helps understanding electronic components.
