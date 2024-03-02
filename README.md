@@ -26,6 +26,11 @@ By repurposing glass bottles, jars, or other containers, learners can create uni
 
 [**Instructions Guide for Eco-Friendly Lamp**](Eco-FriendlyLamp.md)
 
+### BC547 transistor and a push button
+
+The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be used in a variety of electronic circuits. When used as a switch, it can control the flow of current between the collector and emitter terminals.
+
+
 
 
 ## Trainers & Participants
