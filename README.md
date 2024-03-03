@@ -32,7 +32,7 @@ The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be
 
 [**Instructions Guide for BC547 use**](Using-BC547-and-Pushbutton.md)
 
-Using-BC547-and-Pushbutton.md
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
