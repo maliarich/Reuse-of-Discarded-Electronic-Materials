@@ -12,3 +12,5 @@ The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be
 | 4| battery | 9v|
 | 5| push button | 1 |
 | 6| Resistor    | 10k and 200|
+
+ ![Materials for Bright light](/images/.jpg)
