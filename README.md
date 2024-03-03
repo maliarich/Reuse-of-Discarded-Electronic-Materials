@@ -30,9 +30,9 @@ By repurposing glass bottles, jars, or other containers, learners can create uni
 
 The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be used in a variety of electronic circuits. When used as a switch, it can control the flow of current between the collector and emitter terminals.
 
+[**Instructions Guide for BC547 use**](Using-BC547-and-Pushbutton.md)
 
-
-
+Using-BC547-and-Pushbutton.md
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
