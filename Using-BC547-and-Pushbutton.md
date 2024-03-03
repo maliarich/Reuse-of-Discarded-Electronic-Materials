@@ -1,7 +1,7 @@
 # BC547 Transistor and a pushbutton
 The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be used in a variety of electronic circuits. When used as a switch, it can control the flow of current between the collector and emitter terminals.
 
-##_Components_
+## _Components_
 
 
 |s/number| Materials | value |
@@ -14,3 +14,7 @@ The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be
 | 6| Resistor    | 10k and 200|
 
  ![Materials for Bright light](/images/Components.jpg)
+
+
+## _Circuit Diagram_
+
