@@ -18,4 +18,4 @@ The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be
 
 ## _Circuit Diagram_
 
- ![Circuit](/images/Components.jpg)
+ ![Circuit](/images/Circuit.jpg)
