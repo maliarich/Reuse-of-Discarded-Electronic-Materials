@@ -16,7 +16,7 @@
 ## Schematic
 <p align="center" width="100%"><img width="750" src="images/RBG-light.jpg" alt="Schematic for the LED Disco Light"/><br><em>Schematic for the LED Disco Light</em></p>
 
-## Assembling procedure
+## Assembly procedure
 
 ### Step 1: _Preparing the LEDs_  
 Begin by identifying the positive (anode) and negative (cathode) terminals of each LED. Typically, the longer leg of the LED is the positive terminal (anode), while the shorter leg is the negative terminal (cathode). Make sure to note this distinction for both the red and green LEDs
