@@ -14,7 +14,7 @@ An adjustable voltage regulator generates a DC output voltage that can be finely
 ## Schematics
 <p align="center" width="100%"><img width="750" src="images/variable-resistor.jpg" alt="DC-Voltage-Regulator-Schematics"/><br><em>DC-Voltage-Regulator-Schematics</em></p>
 
-## Assembling procedure
+## Assembly procedure
 - Solder a wire to the right terminal of the LM317 as the positive input.
 - Solder the positive output wire to the middle terminal of the LM317.
 - Connect the resistor from the middle terminal of the LM317 to the left terminal of the LM317 by soldering.
