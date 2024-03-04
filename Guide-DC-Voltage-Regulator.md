@@ -1,33 +1,62 @@
-# Adjustable DC voltage regulator
-
-An adjustable voltage regulator produces a DC output voltage, which can be adjusted to any other value of certain voltage range. Hence, adjustable voltage regulator is also called as a variable voltage regulator. The DC output voltage value of an adjustable voltage regulator can be either positive or negative.
+# Adjustable DC Voltage Regulator
+An adjustable voltage regulator generates a DC output voltage that can be finely tuned within a specific voltage range. This type of regulator is commonly referred to as a variable voltage regulator. The DC output voltage from an adjustable voltage regulator can be either positive or negative.
  
- _Requirements:_
- 
+## Materials
 * Board
-* potentiometer
-* wires 
-* solder set
-* circuit board
-* connecting wires
-* LM317T Transistor
-* bread board
+* 10k potentiometer
+* Wires 
+* Solder set
+* Circuit board
+* Connecting wires
+* LM317T transistor
+* Breadboard
 
-![DC-Voltage-Regulator-Schematics](images/variable-resistor.jpg)
+## Schematics
+<p align="center" width="100%"><img width="750" src="images/variable-resistor.jpg" alt="DC-Voltage-Regulator-Schematics"/><br><em>DC-Voltage-Regulator-Schematics</em></p>
+
+## Assembly procedure
+- Solder a wire to the right terminal of the LM317 as the positive input.
+- Solder the positive output wire to the middle terminal of the LM317.
+- Connect the resistor from the middle terminal of the LM317 to the left terminal of the LM317 by soldering.
+
+- Connect the right terminal of the potentiometer to the left terminal of the LM317.
+- Attach a negative input to the middle terminal of the potentiometer.
+- Connect a negative output to the middle terminal of the potentiometer.
+
+<p align="center" width="100%"><img width="750" src="images/Adj-on-making.jpg" alt="Fully Assembled Adjustable Voltage Regulator"/><br><em>Fully Assembled Adjustable Voltage Regulator</em></p>
+
+## Product test  
+<p align="center" width="100%"><img width="750" src="images/Testing-AV.jpg" alt="Testing the Adjustable Voltage Regulator"/><br><em>Testing the Adjustable Voltage Regulator</em></p>
 
 
-## Steps Involved in the making 
--  Solder a wire as a positive input on right terminal of the LM317
-  
-    ![SOldering positive terminal of LM317](/images/Soldering.jpg)
--  Solder a positive output wire on the middle terminal of the LM317
--  From the middle terminal of the LM317, solder the resistor to the left terminal of LM317
-![Complete adjustable voltage regulator](/images/Adj-on-making.jpg)
-- Join the right terminal of the potentiometer to the left terminal of the LM317 
-- Connect a negative input in the middle terminal of the potentiometer 
--  Connect a negative output to the middle terminal of the potentiometer. 
-- Test the product
 
-  ![VR - Testing](/images/Testing-AV.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

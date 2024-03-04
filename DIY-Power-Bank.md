@@ -1,67 +1,75 @@
 # DIY Power Bank
 
-At the heart of this power bank circuit, are small 3.7V lithium- ion cells that are salvaged out of old broken lamps about 2600mah each.
+At the heart of this power bank circuit, are small 3.7V lithium- ion cells that are salvaged out of old broken lamps about 2600 mAh (milli ampere-hour) each.
 
-_Materials_ 
+## Materials
 
-![Materials used in the DIY power bank ](/images/Charger-materials.jpg) 
+- LM7805
+- 3x rechargeable AA batteries 
+- Input jack
+- Output USB
+- Diode
+- R-220
+- R-10k
+- Connecting wire
+- Red LED  
+  
 
-Power banks: are used to charge cell phones, tablets, speakers, and even laptops 
-![Schematics of the DIY power Bank](/images/Schematics-Charger.jpg)
+<p align="center" width="100%"><img width="750" src="images/Charger-materials.jpg" alt="Materials used"/><br><em>Materials used</em></p>
 
-# Assembling procedure.
+Power banks can be used to charge cell phones, tablets, speakers, laptops, etc..
 
-- look for a discarded electronic board
-- Remove required electronic materials
+## Schematic
 
-  ![materials removal](/images/materials-removal.jpg)
+<p align="center" width="100%">
+<img width="750" src="images/Schematics-Charger.jpg" alt="Schematics of the DIY power Bank"/><br><em>Schematics of the DIY power Bank</em></p>
 
-- level all electronic components
-- Cut a rectangular flywood with dimensions (4cm/ 10cm) x2
+## Assembly procedure 
 
-  ![Top cover cardboard](/images/Top-cover-cardboard.jpg)
+- Look for a discarded electronic board.
+- Remove required electronic materials.
+- Level all electronic components.
 
-- Cut a side cover plastics/wood  to cover the edges of the power bank
+<p align="center" width="100%"><img width="600" src="images/materials-removal.jpg" alt="Removing electronic components from a discarded electroinc board"/><br><em>Removing electronic components from a discarded electroinc board</em></p>
 
-  ![Side cover- fliy wood](/images/Side-cover-fly-wood.jpg)
+- Cut two rectangular boards of plywood measuring 4cm x 10cm. One will be used as base plate, the other will be used as a cover.
 
-- Put all the ports (in/out ) in a circuit board and solder it
-- Solder the red LED into the circuit board 
-- Glue down the 3 batteries on the flywood
+<p align="center" width="100%"><img width="600" src="images/Top-cover-cardboard.jpg" alt="Plywood board"/><br><em>Plywood board</em></p>
 
-  ![Rechargable batteries](/images/Rechargable-batteries.jpg)
+- Cut side covers from plastics, or plywood to cover the edges of your power bank.
 
-> - Solder the voltage regulator into the circuit board:
+<p align="center" width="100%"><img width="600" src="images/Side-cover-fly-wood.jpg" alt="Plywood side cover elements"/><br><em>Plywood side cover elements</em></p>
 
-1 - connect the positive of the batteries to the left terminal of the voltage regulator
+- Place all ports (in / out) onto a circuit board and solder them in securely.
+- Solder the red LED into the circuit board.
+- Glue the three rechargeable batteries onto the plywood board.
 
-2 -  connect the negative of the batteries to the middle terminal of the voltage regulator
+<p align="center" width="100%"><img width="600" src="images/Rechargable-batteries.jpg" alt="Gluing the rechargeable batteries"/><br><em>Gluing the rechargeable batteries on the plywood board</em></p>
 
-3 -  from the voltage regulator, solder a negative out put to a USB port 
+## Soldering the electronic components
 
-4 -  again from the voltage regulator, solder a positive out put to a USB port
+Solder the voltage regulator into the circuit board:
+- Connect the positive side of the batteries to the left terminal of the voltage regulator.
+- Connect the negative side of the batteries to the middle terminal of the voltage regulator.
+- Solder the negative output of the voltage regulator to the USB port.
+- Solder the positive output of the voltage regulator to the USB port.
 
-![soldered circuit](images/soldered-circuit.jpg)
+<p align="center" width="100%"><img width="600" src="images/soldered-circuit.jpg" alt="Soldered circuit"/><br><em>Soldered circuit</em></p>
 
-5 -  from the charging port ( jack), solder a 10k resistor to the left terminal of the voltage regulator as positive.
+- Coming from the charging port (jack), solder a 10k Ohm resistor to the left terminal of the voltage regulator as positive. 
+- Connect the negative outpot of the charging port (jack) to the middle terminal of the voltage regulator.
+- Connect the negative pole of the LED to the negative pole of the voltage regulator
+- Connect the positive pole of the LED with the 220 Ohm resistor and with the positive pole of the charging port (jack).
 
-6 - Connect the negative of the jack port to the middle terminal of the voltage regulator
+## Final Steps
+- Attach the circuit board onto the base plate.
+<p align="center" width="100%"><img width="600" src="images/Circuit-board-attarched-battery.jpg" alt="Circuit board attached next to the batteries"/><br><em>Circuit board attached next to the batteries</em></p>  
 
-7 -  Red LED, connect the negative of the LED to the voltage regulator negative then the positive of the LED to a 220 ohms resistor and to a positive of the jack through a diode.
+- Glue the side covers onto the plywood cover.
 
-8 – Attach the batteries to the wood using a glue
+<p align="center" width="100%"><img width="600" src="images/side-cover-attached-main.jpg" alt="Side covers glued onto the plywood cover"/><br><em>Side covers glued onto the plywood cover</em></p>
 
-9 – attach the circuit board to the wood
+- Assemble your base plate with the circuit and the cover with the side elements together. 
+- Plug the phone cable into the USB and test your **DIY Power Bank**.
 
-![Circuit board attarched next to a battery](/images/Circuit-board-attarched-battery.jpg)
-
-10 – attach all side cover to the wood 
-
-![side cover attached to main wood](/images/side-cover-attached-main.jpg)
-
-11 – Cover the top with a wood same size as the below
-
-12 – test the product 
-
-![Testing Power Bank](/images/Testing-Power-Bank.jpg)
-
+<p align="center" width="100%"><img width="600" src="images/Testing-Power-Bank.jpg" alt="Testing the DIY Power Bank"/><br><em>Testing the DIY Power Bank</em></p>

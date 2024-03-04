@@ -1,5 +1,5 @@
 # OER for Reuse of Discarded Electronic Materials
-**(DIY Power Bank, variable voltage regulator, Eco-friendly lamp, Led light)**
+**(DIY Power Bank, variable voltage regulator, eco-friendly Lamp, LED Disco Light)**
 
 ## Description
 Reusing Electronics Materials is crutial in the context of a Refugee Settlement and helps understanding electronic components.
@@ -19,12 +19,12 @@ Instead of purchasing expensive regulators, learners can repurpose components fr
 [**Instruction Guide for building the regulator**](Guide-DC-Voltage-Regulator.md)
 
 
-### Eco-friendly lighting/Led light 
+### Eco-friendly Lamp and LED Disco Light 
 By repurposing glass bottles, jars, or other containers, learners can create unique and aesthetically pleasing lighting fixtures. Moreover, using energy-efficient LED bulbs can further enhance the sustainability aspect, reducing energy consumption and promoting eco-conscious habits.
 
-[**Instructions Guide for building Led-Light**](LED-LIGHT.md)
+[**Instructions Guide for building Led Disco Light**](LED-LIGHT.md)
 
-[**Instructions Guide for Eco-Friendly Lamp**](Eco-FriendlyLamp.md)
+[**Instructions Guide for eco-friendly Lamp**](Eco-FriendlyLamp.md)
 
 ### BC547 transistor and a push button
 

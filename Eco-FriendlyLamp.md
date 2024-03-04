@@ -1,63 +1,73 @@
-# Unit 2 Eco-friendly Lamps
-A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.
-
-## _Requirements_
+# Eco-Friendly Lamp
+Embark on a creative journey as you learn to craft an eco-friendly lamp from a handful of discarded electronic components. Illuminate your space with a sustainable touch, blending functionality with aesthetic appeal. Join us in discovering the art of repurposing for both light and style!
+## Materials
 
 * LED
 * connecting wires
 * circuit board
 * batteries
 * batteries Holder
-* out of use container ( transparent )
+* used container (transparent)
 * switch
-* resistors
-  ![Materials for Bright light](/images/Bright-light.jpg)
+* resistors 
 
-The most sustainable lamp materials are recycled and/or recyclable—such as scrap cardboard, glass waste, plastic bottles, and salvaged wood. When new natural materials are used (such as bamboo, wood, and shells) they should be responsibly sourced ![Schematic for Bright light](/images/laamp.jpg)
+<p align="center" width="100%">
+<img width="750" src="images/Bright-light.jpg" alt="Electronic components"/><br><em>Electronic components</em></p>
 
+The most sustainable lamp materials are recycled and / or recyclable—such as scrap cardboard, glass waste, plastic bottles, and salvaged wood. When new natural materials are used (such as bamboo, wood, and shells) they should be responsibly sourced.
 
-# Steps in the making:
-### Step 1: 
-_Gather all the materials_ you will need for making the lamp, including batteries, a switch, a transparent container, cardboard for covering the container at the top, a battery case, wires, a bright LED, and a lamp holder.
+## Schematic
+<p align="center" width="100%">
+<img width="750" src="images/laamp.jpg" alt="Schematics"/><br><em>Schematic</em></p>
 
-### Step 2: 
-_Start by preparing the transparent container_ You can use an old glass jar or a plastic container with a lid. Make sure it is clean and free from any debris.
+## Assembly procedure
+### Gather materials:
+Gather all the materials you will need for making the lamp, including batteries, a switch, a transparent container, cardboard for covering the container at the top, a battery case, wires, a bright LED, and a lamp holder.
 
-![Transparent glass from Discarded electronics](/images/Transparent-Glass.jpg)
+### Preparing transparent container: 
+You can use an old glass jar or a plastic container with a lid. Make sure it is clean and free from any debris.
 
-### Step 3: 
-_Punch a small hole in the container lid to accommodate the wires from the LED and the switch_ This hole should be big enough to pass the wires through without any difficulty.
+<p align="center" width="100%">
+<img width="600" src="images/Transparent-Glass.jpg" alt="Transparent container"/><br><em>Transparent container</em></p>
 
-### Step 4: 
-_Take the LED and attach it to the wires_ Connect the positive side of the LED to the red wire and the negative side to the black wire. You can use electrical tape or soldering to secure the connections. Ensure proper insulation to avoid any short circuits.
+Punch a small hole in the container lid to accommodate the wires from the LED and the switch. This hole should be big enough to pass the wires through without any difficulty.
 
-### Step 5: 
-_Connect the wires from the LED to the battery case_ The red wire should be connected to the positive terminal, and the black wire to the negative terminal. Again, make sure the connections are secure and properly insulated.
+### Electronic components: 
+**Take the LED and attach it to the wires.**  
+Connect the positive side of the LED to the red wire and the negative side to the black wire. You can use electrical tape or soldering to secure the connections. Ensure proper insulation to avoid any short circuits.
 
-![battey case](/images/Battery-case.jpg)
+**Connect the wires from the LED to the battery case.**  
+ The red wire should be connected to the positive terminal, and the black wire to the negative terminal. Again, make sure the connections are secure and properly insulated.
 
-### Step 6: 
-_Attach the switch to the wires_ Connect the red wire to one terminal of the switch, and the black wire to the other terminal. Secure the connections, ensuring they are properly insulated.
+<p align="center" width="100%">
+<img width="600" src="images/Battery-case.jpg" alt="battery case"/><br><em>Battery case</em></p>
 
-### Step 7: 
-_Place the batteries in the battery case_ Make sure the positive and negative terminals of the batteries match the corresponding terminals in the case. Close the case tightly to secure the batteries.
+**Attach the switch to the wires.**  
+Connect the red wire to one terminal of the switch, and the black wire to the other terminal. Secure the connections, ensuring they are properly insulated.
 
-![Batteries](/images/Batteries.jpg)
+**Place the batteries in the battery case.**  
+Make sure the positive and negative terminals of the batteries match the corresponding terminals in the case. Close the case tightly to secure the batteries.
 
-### Step 8: 
-_Insert the wire with the LED and switch through the hole in the container lid_ Ensure the LED is facing downwards and goes inside the transparent container.
+<p align="center" width="100%">
+<img width="600" src="images/Batteries.jpg" alt="Batteries"/><br><em>Batteries</em></p>
 
-### Step 9: 
-_Attach the lamp holder on top of the container lid_ Ensure it fits securely and does not obstruct the LED.
+**Insert the wire with the LED and switch through the hole in the container lid.**  
+Ensure the LED is facing downwards and goes inside the transparent container.
 
-![handle](/images/Holder.jpg)
+### Finalization: 
+**Attach the lamp holder.**  
+Attach the holder on top of the container lid. Ensure it fits securely and does not obstruct the LED.
 
-### Step 10: 
-_Cut a piece of cardboard to cover the top of the transparent container where the lamp holder is attached_ This will act as a diffuser for the LED light and provide a softer glow.
+<p align="center" width="100%">
+<img width="600" src="images/Holder.jpg" alt="Holder"/><br><em>Holder</em></p>
 
-![Cardboard](/images/Card-board.jpg)
+**Cut a piece of cardboard.**  
+Use the cardboard to cover the top of the transparent container where the lamp holder is attached. This will act as a diffuser for the LED light and provide a softer glow.
 
-### Step 11: 
-Place the cardboard cover on top of the container, making sure it fits snugly.
+<p align="center" width="100%">
+<img width="600" src="images/Card-board.jpg" alt="Cardboard"/><br><em>Cardboard</em></p>
 
-![Eco- Freindly Lamp](/images/Eco-Friendly-lamp.jpg) 
+Place the cardboard cover on top of the container. Make sure it fits tight.
+
+<p align="center" width="100%">
+<img width="600" src="images/Eco-Friendly-lamp.jpg" alt="Eco Friendly Lamp"/><br><em>Eco-Friendly Lamp</em></p>

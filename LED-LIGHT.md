@@ -1,51 +1,45 @@
- # Led light
+ # LED Disco Light
+ This module guides you through the process of creating a vibrant and captivating USB-powered LED Disco Light using recycled electronic materials. Explore the art of crafting a colorful, blinking masterpiece from discarded components.
 
- ## Materials needed:
-
- * Red LED
- * Green LED
- * Plastic container (transparent or translucent)
- * USB cable from e-waste
- * Soldering iron and solder
- *  Electrical tape
- * Wire cutters/strippers
- * Small drill or a hot nail
+ ## Materials
+- Red LED
+- Green LED
+- Plastic container (transparent or translucent)
+- USB cable from e-waste
+- Soldering iron and solder
+- Electrical tape
+- Wire stripper / cutter
+- Small drill or a hot nail
  
- ![Materials for Led](/images/Led-materials.jpg/)
+<p align="center" width="100%"><img width="750" src="images/Led-materials.jpg" alt="Materials used"/><br><em>Materials used</em></p>
 
-![Schematic for the Led mesmorizing light](/images/RBG-light.jpg)
+## Schematic
+<p align="center" width="100%"><img width="750" src="images/RBG-light.jpg" alt="Schematic for the LED Disco Light"/><br><em>Schematic for the LED Disco Light</em></p>
 
-## Steps in the making 
+## Assembly procedure
 
-### Step 1: _Preparing the LEDs_  
-Start by identifying the positive (anode) and negative (cathode) terminals of each LED. The longer leg of the LED is usually the positive terminal (anode), while the shorter leg is the negative terminal (cathode). Take note of this distinction for both the red and green LEDs.
+### Preparing the LEDs  
+Begin by identifying the positive (anode) and negative (cathode) terminals of each LED. Typically, the longer leg of the LED is the positive terminal (anode), while the shorter leg is the negative terminal (cathode). Make sure to note this distinction for both the red and green LEDs
 
-### Step 2: _Creating the LED circuit_ 
-Cut two small lengths of wire from the USB cable, ensuring that each wire is long enough to connect the LEDs to the circuit. Strip a small portion of insulation from each end of the wires to expose the copper strands. Next, solder one wire to the positive terminal of the red LED and the other wire to the positive terminal of the green LED. Make sure the soldered connections are secure. Cover the exposed connections with electrical tape to insulate them.
+### Creating the LED circuit 
+Cut two short lengths of wire from the USB cable, making sure each wire is long enough to connect the LEDs to the circuit. Strip a small portion of insulation from each end of the wires to expose the copper strands. Then, solder one wire to the positive terminal of the red LED and the other wire to the positive terminal of the green LED. Ensure the soldered connections are secure, and cover the exposed connections with electrical tape for insulation.
 
-### Step 3: _Assembling the disco lights_ 
-Take the plastic container and decide where you want to place the LEDs. You can drill or heat a hole using a hot nail on the container's surface, ensuring it's large enough to fit the LEDs snugly. Be careful not to damage the container while drilling or heating. Insert the red and green LEDs into the holes you created, with the positive terminals facing outwards. Secure them in place using a small amount of hot glue or adhesive if needed.
+### Preparing and assembling the container
+Take the plastic container and determine the desired locations for the LEDs. Drill or heat a hole using a hot nail on the container's surface, ensuring it is large enough to snugly fit the LEDs. Exercise caution to avoid damaging the container during drilling or heating. Insert the red and green LEDs into the created holes, positioning their positive terminals facing outward. Secure them in place with a small amount of hot glue or adhesive if necessary.
 
-![Soldering anode_cathode](/images/Soldering-anode-cathode.jpg)
+<p align="center" width="100%"><img width="500" src="images/Soldering-anode-cathode.jpg" alt="Soldering the Anode and Cathode Terminals"/><br><em>Soldering the Anode and Cathode Terminals</em></p>
 
-### Step 4: _Wiring the circuit_ 
-Cut the USB cable, separating the two wires inside (usually a red wire and a black or green wire). Strip a small portion of insulation from the cut ends of the wires. Connect the positive wire from the USB cable to the negative terminal (cathode) of the red LED using solder. Similarly, connect the negative wire from the USB cable to the negative terminal (cathode) of the green LED. Ensure the solder connections are secure and insulated with electrical tape.
+### Wiring the circuit
+Cut the USB cable, separating the two wires inside (usually a red wire and a black or green wire). Strip a small portion of insulation from the cut ends of the wires. Connect the positive wire from the USB cable to the negative terminal (cathode) of the red LED using solder. Similarly, connect the negative wire from the USB cable to the negative terminal (cathode) of the green LED. Ensure the solder connections are secure and insulate them with electrical tape.
 
-### Step 5: _Preparing the box_
-Cut a circular cardboard from a flywood or box And enter the wire (USB) through the Plastic base
+### Preparing the box
+Cut a circular piece of cardboard from plywood or a box, and thread the USB wire through the plastic base.
 
-![Cardboard and Black base](/images/Cardboard-black-base.jpg)
+<p align="center" width="100%"><img width="750" src="images/Cardboard-black-base.jpg" alt="Black plastic base and piece of cardboard"/><br><em>Black plastic base and piece of cardboard</em></p>
 
-### Step 6: _Powering the disco lights_ 
-Connect the USB cable to a power source, such as a computer, laptop, or USB wall charger. The LEDs should light up, creating a colorful disco effect inside the plastic container.
+### Powering the LED Disco Light
+Connect the USB cable to a power source, such as a computer, laptop, or USB wall charger. The LEDs should illuminate, producing a vibrant disco effect inside the plastic container.
 
-![Led light](/images/led-light.jpg)
+<p align="center" width="100%"><img width="750" src="images/led-light.jpg" alt="Fully Assembled Disco Light"/><br><em>Fully Assembled LED Disco Light</em></p>
 
 > **Warning**: Be cautious when working with electronics and soldering irons. Ensure your workspace is well-ventilated and take proper safety precautions.
-
-
-
-
-
-
-
