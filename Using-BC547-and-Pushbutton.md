@@ -27,7 +27,7 @@ When the switch is closed (i.e., when a small current is applied to the base of 
 
 ## _Steps involved_
 
-* Place the Transistor (BC547) on a breadboard and connect jumpers 
+* Place the Transistor (BC547) *1* on a breadboard and connect jumpers 
 * Connect the Emitter to the ground of the battery
 * Add LED & 220 Ohm Resistor to Collector of BC547
 * Connect 1k Resistor and Switch to the Base of the transistor
