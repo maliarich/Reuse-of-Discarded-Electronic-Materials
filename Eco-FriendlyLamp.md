@@ -20,7 +20,7 @@ The most sustainable lamp materials are recycled and / or recyclable—such as s
 <p align="center" width="100%">
 <img width="750" src="images/laamp.jpg" alt="Schematics"/><br><em>Schematic</em></p>
 
-## Assembling procedure
+## Assembly procedure
 ### Gather materials:
 Gather all the materials you will need for making the lamp, including batteries, a switch, a transparent container, cardboard for covering the container at the top, a battery case, wires, a bright LED, and a lamp holder.
 
