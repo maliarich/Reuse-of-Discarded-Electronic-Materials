@@ -32,7 +32,7 @@ When the switch is closed (i.e., when a small current is applied to the base of 
 * Add LED (number 3) & 220 Ohm Resistor(number 6) to Collector of BC547 (number 1)
 * Connect 1k Resistor and Switch to the Base of the transistor
 * Power up the circuit with 9V Battery ( number 4)
-* see pin allocations in "circuit Diagram" above 
+* see pin allocations in "Circuit Diagram" above 
 * Test the circuit 
 
 ![sketch](/images/sketchh.jpg)
