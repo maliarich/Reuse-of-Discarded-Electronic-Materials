@@ -22,7 +22,7 @@ When the switch is closed (i.e., when a small current is applied to the base of 
 
 ## _Circuit Diagram_
 
- ![Circuit](/images/Circuit.jpg)
+ ![Circuit](/images/diagram.jpg)
 
 
 ## _Steps involved_
