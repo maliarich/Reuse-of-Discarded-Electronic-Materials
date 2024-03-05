@@ -17,7 +17,7 @@ When the switch is closed (i.e., when a small current is applied to the base of 
 | 5| push button | 1 |
 | 6| Resistor    | 10k and 200|
 
- ![Components for the circuit](/images/Components.jpg)
+ ![Components for the circuit](/images/Component.jpg)
 
 
 ## _Circuit Diagram_
