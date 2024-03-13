@@ -7,7 +7,7 @@ Reuse refers to the act of finding new uses for items or materials that would ot
 
 
 
-1. ## Learning Objective 
+## 1. ## Learning Objective 
 ### DIY power bank.
 By repurposing old lamps  batteries or salvaging usable components from discarded electronics, learners can create a portable power source for charging their devices. This project not only reduces waste but also promotes self-sufficiency and innovation.
 
