@@ -1,5 +1,6 @@
-when a Buzzer, BC547 transistor and relay are connected to gether it creates a project such as an alarm system where the relay is used to control the power supply to the buzzer,
- and the BC547 transistor is used to control the relay based on the input signal.
+when a Buzzer, BC547 transistor and relay are connected to gether it creates a project such,
+ as an alarm system where the relay is used to control the power supply to the buzzer,
+and the BC547 transistor is used to control the relay based on the input signal.
 
 
 ## Working Explainations
@@ -10,6 +11,7 @@ The current flows through the resistor and the diode, activating the relay coil
  The IN4007 diode protects the relay coil from voltage spikes when the relay is turned off.
 
 ### Materials required for the project
+
  ![materials for the circuit](/images/materialss.jpg)
 
 ##  Here's a step-by-step explanation:
@@ -37,6 +39,7 @@ The current flows through the resistor and the diode, activating the relay coil
 
 * Note: 
  learn about Relays: https://circuitdigest.com/article/relay-working-types-operation-applications
+
  BC547 Transistor:
 https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/blob/main/Using-BC547-and-Pushbutton.md
 
