@@ -35,7 +35,7 @@ The BC547 is a general-purpose NPN bipolar junction transistor (BJT) that can be
 ### BC547, Buzzer and Relay.
 when a Buzzer, BC547 transistor and relay are connected to gether it creates a project such as an alarm system where the relay is used to control the power supply to the buzzer, and the BC547 transistor is used to control the relay based on the input signal.
 
-[**Guide for BC547,buzzer and relay circuit**](Using-BC547-and-Pushbutton.md)
+[**Guide for BC547,buzzer and relay circuit**](BC547-Buzzer-and-Relay.md)
 
 ## Trainers & Participants
 - Min. Trainers needed: 2
