@@ -38,7 +38,8 @@ The current flows through the resistor and the diode, activating the relay coil
  ![Components for the circuit](/images/complete%20c%201.jpg)
 
  Note: 
- * Read about Relays: https://circuitdigest.com/article/relay-working-types-operation-applications
+ Read about:
+ * Relays: https://circuitdigest.com/article/relay-working-types-operation-applications
 
  * BC547 Transistor:
 https://github.com/maliarich/Reuse-of-Discarded-Electronic-Materials/blob/main/Using-BC547-and-Pushbutton.md
