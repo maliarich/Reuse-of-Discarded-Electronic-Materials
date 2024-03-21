@@ -37,6 +37,14 @@ when a Buzzer, BC547 transistor and relay are connected to gether it creates a p
 
 [**Guide for BC547,buzzer and relay circuit**](BC547-Buzzer-and-Relay.md)
 
+### 7. Photoresistor and BC547 ( Automatic Night Light)
+
+This circuit works on the principal that electricity follows the path of lest resistance. 
+1. When light is hitting the photoresistor its resistance is lower than that of the base of the transistor, therefore the "electricity" will bypass the transistor and flow through the photoresistor, following the least resistance to ground. 
+2. When no light hits the photoresistor its resistance is higher than that of the transistors base and the electricity will flow into the base of the transistor activating it to turn on the LED.
+
+[**Guide for Photoresistor and BC547 circuit**](Photoresistor-and-BC547.md)
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
