@@ -45,6 +45,14 @@ This circuit works on the principal that electricity follows the path of lest re
 
 [**Guide for Photoresistor and BC547 circuit**](Photoresistor-and-BC547.md)
 
+### 8. Infrared Motion Detector with TIP32C
+
+In this instructional guide, we will demonstrate how to build a simple DIY Infrared (IR) motion detector using commonly available electronic components.
+1. The motion detector will utilize an IR sensor to detect motion and trigger an LED indicator. This project can be a fun and educational way to learn about basic electronics and sensor technology.
+2. When motion is detected, the IR sensor will send a signal to the base of the TIP32C transistor, allowing current to flow through the LED and illuminate it.
+   
+[**Guide for Infrared Motion Detector with TIP32C**](Infrared-Motion-Detector-With-TIP32C.md)
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
