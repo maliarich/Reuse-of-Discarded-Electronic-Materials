@@ -23,7 +23,9 @@ The cycle then repeats, causing the LED to blink at a regular interval.
 9. test the circuit
 
 ### Complete project:
- ![Complete set up](/images/optocoupler-complete.jpg)
+
+<p align="center" width="100%">
+<img width="750" src="images/optocoupler-complete.jpg" alt="Complete circuit"/><br><em>Complete circuit</em></p>
 
 Ensure proper polarity and connections while building the circuit. Adjust the resistor values and capacitor size as needed to change the blinking frequency.
 
