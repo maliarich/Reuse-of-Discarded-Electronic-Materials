@@ -53,6 +53,15 @@ In this instructional guide, we will demonstrate how to build a simple DIY Infra
    
 [**Guide for Infrared Motion Detector with TIP32C**](Infrared-Motion-Detector-With-TIP32C.md)
 
+### 9. Blinking-LED-circuit-using-Optocoupler
+
+When the circuit is powered, the capacitor charges through the 1k ohm resistor.As the capacitor charges, the voltage across it increases.
+Once the voltage across the capacitor reaches a certain threshold, the optocoupler triggers.
+When the optocoupler triggers, it turns on the LED momentarily.After triggering, the capacitor discharges through the LED and the optocoupler.
+The cycle then repeats, causing the LED to blink at a regular interval.
+   
+[**Guide for LED-circuit-using-Optocoupler**](Infrared-Motion-Detector-With-TIP32C.md)
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
