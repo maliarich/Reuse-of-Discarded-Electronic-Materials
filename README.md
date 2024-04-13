@@ -60,7 +60,7 @@ Once the voltage across the capacitor reaches a certain threshold, the optocoupl
 When the optocoupler triggers, it turns on the LED momentarily.After triggering, the capacitor discharges through the LED and the optocoupler.
 The cycle then repeats, causing the LED to blink at a regular interval.
    
-[**Guide for LED-circuit-using-Optocoupler**](Infrared-Motion-Detector-With-TIP32C.md)
+[**Guide for LED-circuit-using-Optocoupler**](Blinking-LED-circuit-using-Optocoupler.md)
 
 ## Trainers & Participants
 - Min. Trainers needed: 2
