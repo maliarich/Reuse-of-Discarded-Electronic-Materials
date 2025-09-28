@@ -62,14 +62,16 @@ The cycle then repeats, causing the LED to blink at a regular interval.
    
 [**Guide for LED-circuit-using-Optocoupler**](Blinking-LED-circuit-using-Optocoupler.md)
 
+### 10. Automatic Irrigation System Prototype for Beginners 
+
+Watering plants manually can be time-consuming and inefficient especially in places with long dry spell for instance in Rhino camp refugee settlement in Uganda. This DIY project guides Students  to build a low-cost automatic irrigation system using locally available materials from discarded waste and simple electronics.
+The system uses a soil moisture sensor to detect when plants need water and a 12V DC pump to deliver water automatically. The project is mounted on a wooden base, with containers acting as the mini farm and water tank.
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
 
-## Credits, References and Resources  
-Links (e.g. to videos), references, etc.
 
-(will follow)
  
 
 This Trainer documentation was created in the context of https://asknet.community
