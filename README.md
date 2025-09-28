@@ -67,6 +67,12 @@ The cycle then repeats, causing the LED to blink at a regular interval.
 Watering plants manually can be time-consuming and inefficient especially in places with long dry spell for instance in Rhino camp refugee settlement in Uganda. This DIY project guides Students  to build a low-cost automatic irrigation system using locally available materials from discarded waste and simple electronics.
 The system uses a soil moisture sensor to detect when plants need water and a 12V DC pump to deliver water automatically. The project is mounted on a wooden base, with containers acting as the mini farm and water tank.
 
+### 11. Emergency lamp from Discarded E-waste 
+
+This guide documents how to build a small, portable solar-powered light using discarded electronics and locally available materials in a refugee settlement.
+The design is affordable, repairable, and uses upcycled components, reducing e-waste while providing reliable lighting.
+
+
 ## Trainers & Participants
 - Min. Trainers needed: 2
 - Max. Participants: 15
