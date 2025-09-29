@@ -67,7 +67,7 @@ The cycle then repeats, causing the LED to blink at a regular interval.
 Watering plants manually can be time-consuming and inefficient especially in places with long dry spell for instance in Rhino camp refugee settlement in Uganda. This DIY project guides Students  to build a low-cost automatic irrigation system using locally available materials from discarded waste and simple electronics.
 The system uses a soil moisture sensor to detect when plants need water and a 12V DC pump to deliver water automatically. The project is mounted on a wooden base, with containers acting as the mini farm and water tank.
 
-[**Guide for LED-circuit-using-Optocoupler**](Blinking-LED-circuit-using-Optocoupler.md)
+[**Learn how to build a simple Automatic Irrigation prototype from Beginning**](Automatic-Irrigation-System-Prototype-for-Beginners.md) 
 
 ### 11. Emergency lamp from Discarded E-waste 
 
