@@ -32,6 +32,7 @@ By the end of this activity, learners will:
     • 1 × Soil Moisture Sensor – to detect soil dryness.
     • 1 × 12V Relay Module – to control pump switching.
     • 1 Arduino Uno (or similar) – brain of the system.
+    • 1 pipe for water distribution to the farm
 Optional: screws, glue, tape, soldering iron  for better mounting.
     
   ![materials for the circuit](/images/DIY-Irrigation-Electronics-components.jpg) 
