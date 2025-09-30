@@ -74,7 +74,7 @@ The system uses a soil moisture sensor to detect when plants need water and a 12
 This guide documents how to build a small, portable solar-powered light using discarded electronics and locally available materials in a refugee settlement.
 The design is affordable, repairable, and uses upcycled components, reducing e-waste while providing reliable lighting.
 
-[**Guide for LED-circuit-using-Optocoupler**](Blinking-LED-circuit-using-Optocoupler.md)
+[**Turn E-waste into Lamp**](Emergency-lamp-from-Discarded-E-waste.md)
 
 ## Trainers & Participants
 - Min. Trainers needed: 2
