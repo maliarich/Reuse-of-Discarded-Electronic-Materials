@@ -52,12 +52,12 @@ Optional: screws, glue, tape, soldering iron  for better mounting.
     2. Mini farm tray: Cut a jerrycan into a shallow tray and place soil + plants.
     3. Water tank: Cut a container, fill with water, and place pump inside.
 
-     ![Base](/images/Base-container-farm-DIY-Irrigation.jpg) 
+   ![Base](/images/Base-container-farm-DIY-Irrigation.jpg) 
 
     4. Mount electronics: Fix Arduino, relay, and switches onto the board.
     5. Wiring: Connect components as per circuit plan. Ensure switches work.
 
-     ![Test](/images/Testing-DIY-Irrigation.jpg) 
+   ![Test](/images/Testing-DIY-Irrigation.jpg) 
     
     6. Upload Arduino code: Use Arduino IDE to upload the irrigation code (sample below).
     7. Test system: Power on, water should flow automatically when soil is dry.
