@@ -5,11 +5,8 @@
  
 Watering plants manually can be time-consuming and inefficient especially in places with long dry spell for instance in Rhino camp refugee settlement in Uganda. This DIY project guides Students  to build a low-cost automatic irrigation system using locally available materials from discarded waste and simple electronics.
 The system uses a soil moisture sensor to detect when plants need water and a 12V DC pump to deliver water automatically. The project is mounted on a wooden base, with containers acting as the mini farm and water tank.
-
-### Complete DIY functional Automatic Irrigation System developed by CC4D 
-
- ![DIY functional Automatic Irrigation System developed by CC4D ](/images/On-farm-prototype-test.jpg)  
-
+ 
+<p align="center" width="100%"><img width="750" src="images/On-farm-prototype-test.jpg" alt="Testing the Adjustable Voltage Regulator"/><br><em>Complete DIY functional Automatic Irrigation System developed by CC4D</em></p>
 
 
 ### Learning Objectives
