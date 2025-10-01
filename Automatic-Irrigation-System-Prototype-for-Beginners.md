@@ -50,7 +50,8 @@ Optional: screws, glue, tape, soldering iron  for better mounting.
     2. Mini farm tray: Cut a jerrycan into a shallow tray and place soil + plants.
     3. Water tank: Cut a container, fill with water, and place pump inside.
 
-   ![Base](/images/Base-container-farm-DIY-Irrigation.jpg) 
+  
+   <p align="center" width="60%"><img lengh="60" src="images/Base-container-farm-DIY-Irrigation.jpg" alt="Testing the Adjustable Voltage Regulator"/><br><em> Base,container and mini farm </em></p>
 
     4. Mount electronics: Fix Arduino, relay, and switches onto the board.
     5. Wiring: Connect components as per circuit plan. Ensure switches work.
