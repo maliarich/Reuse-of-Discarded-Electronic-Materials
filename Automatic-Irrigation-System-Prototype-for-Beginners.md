@@ -32,8 +32,8 @@ By the end of this activity, learners will:
     • 1 tube for water distribution to the farm
 Optional: screws, glue, tape, soldering iron  for better mounting.
     
-  ![materials for the circuit](/images/DIY-Irrigation-Electronics-components.jpg) 
 
+<p align="center" width="60%"><img lengh="60" src="images/DIY-Irrigation-Electronics-components.jpg" alt="Testing the Adjustable Voltage Regulator"/><br><em> Materials or the DIY prototype </em></p>
 ### Circuit Connections
 
     1. Soil Moisture Sensor → Arduino analog pin (e.g., A0), VCC, GND.
